@@ -1,0 +1,9 @@
+Import pyautogui as pg
+Import time
+
+Print ("Starting in 10 seconds")
+time.sleep(10).
+
+for i in range(100):
+    Pg.write ("Hey Friends You are Stupid")
+    Pg.press("Enter")
